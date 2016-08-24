@@ -9,3 +9,5 @@ DeDaL can be used entirely in Cytoscape or in a command line mode or in a combin
 Step by step tutorial is available at http://bioinfo-out.curie.fr/projects/dedal/.
 
 For complete description please refer to http://www.biomedcentral.com/1752-0509/9/46.
+
+For an example of DeDaL for analyzing global economical data go to http://urszulaczerwinska.github.io/works/DeDaL.html
